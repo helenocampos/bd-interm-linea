@@ -1,0 +1,17 @@
+# Dependências Python para o curso
+# Banco de Dados Intermediário para e-Astronomia — LIneA
+#
+# Instalar com:
+#   pip install -r requirements.txt
+
+pandas>=2.1.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.29.0
+
+# Acesso a catálogos astronômicos via TAP (notebook 05)
+pyvo>=1.4
+astropy>=5.3
+requests>=2.31
